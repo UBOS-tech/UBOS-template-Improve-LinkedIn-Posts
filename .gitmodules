@@ -1,0 +1,8 @@
+[submodule "UBOS-template-Improve-LinkedIn-Posts-ui"]
+	path = UBOS-template-Improve-LinkedIn-Posts-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Improve-LinkedIn-Posts-ui.git
+	branch = main
+[submodule "UBOS-template-Improve-LinkedIn-Posts-nr"]
+	path = UBOS-template-Improve-LinkedIn-Posts-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-Improve-LinkedIn-Posts-nr.git
+	branch = origin
